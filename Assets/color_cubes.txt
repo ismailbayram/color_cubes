@@ -1,0 +1,21 @@
+yapilacaklar:
+- sureli bolum yap bitince zaman kazanmasi icin reklam izlet.
+- udp ye bak
+- muzik butonu
+- onunityadsready olunca reward butonu set active true yap. basta false yap.
+
+***LEVEL tasarlarken yapılması gerkenler
+- level infoyu güncelle
+- level info locale keyiını gir
+- game manager.level güncelle
+- map center ayarla
+- lightmap olustur
+- ad butonu calisiyor mui diye bak
+- leveli build settings'e ekle
+
+
+*** PUBLISH'TEN ONCE
+- test modu kapat
+- play store a yuklemeden once add-apps.txt konsauna bak. adamlar sitene yukle diyor. sitem nerde???
+- unity monetization settings store id gir
+- google play bundle app tikle
